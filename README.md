@@ -1,6 +1,7 @@
 ### Hi there 👋
+Rahul Patil - Devops Engineer/AWS Certified Solution Architecture
 
-rahul patil here i am working as DevOps Enginner for more information about me visit my website : www.rahulpatil.me
+for more information about me visit my website : www.rahulpatil.me
 
 Here are some ideas to get you started:
 
@@ -13,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am an AWS Certified Solutions Architect working as a Devops Engineer - Cloud with Neetable Technologies since January, 2020. I have started off my career with computer Cloud Enginner and in the past five years, I have added many skills such as AWS, Azure, Continuous Integration, Continuous Deployment, DevOps Toos, Windows Administration, Linux Administration.
+
+I dive deep into each project. I will figure out the best way to fulfill your vision and make suggestions on how to build the most suitable infrastructure for your application's.
+
+I love keeping in touch with the latest technologies and trends. My portfolio goes beyond the projects linked here, for a more a complete list and a chat please contact me.
