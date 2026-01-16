@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Rahul Patil 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Sr.+DevOps+Engineer+%7C+8%2B+Years+Experience;AWS+Certified+Solutions+Architect;Cloud+Infrastructure+%26+Automation+Expert;CI%2FCD+Pipeline+Specialist" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Sr.+DevOps+Engineer+%7C+8%2B+Years+Experience;CKA+%26+CKAD+Certified+Kubernetes+Expert;AWS+%26+Azure+Solutions+Architect;Cloud+Infrastructure+%26+Automation+Expert;CI%2FCD+Pipeline+Specialist" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -14,22 +14,37 @@
 
 ## 🚀 About Me
 
-I'm a **Senior DevOps Engineer** at **Neetable Technologies** with a passion for building scalable cloud infrastructure and automating everything! With **8+ years of hands-on experience**, I specialize in designing and implementing robust CI/CD pipelines, infrastructure as code, and cloud-native solutions.
+I'm a **Senior DevOps Engineer** at **GlobalLogic** with a passion for building scalable cloud infrastructure and automating everything! With **8+ years of hands-on experience**, I specialize in designing and implementing robust CI/CD pipelines, infrastructure as code, and cloud-native solutions.
 
-- 🔭 Currently working on **AWS CDK & CloudFormation** projects
-- 🌱 Diving deep into **Kubernetes, Terraform, and GitOps**
+- 🔭 Currently working on **Kubernetes, AWS, and Azure Cloud Solutions**
+- 🌱 Diving deep into **CKA/CKAD certified** - Kubernetes expert
 - 👯 Looking to collaborate on **automation and infrastructure projects**
-- 💬 Ask me about **AWS, DevOps, CI/CD, Docker, and Jenkins**
+- 💬 Ask me about **AWS, Azure, Kubernetes, DevOps, CI/CD, Docker, and Jenkins**
 - 📫 Reach me at: **[www.rahulpatil.me](https://www.rahulpatil.me)**
-- 📍 Based in **Bangalore, India**
+- 📍 Based in **Bengaluru, Karnataka, India**
+- 🌐 Languages: **English, Gujarati, Marathi, Hindi**
+- 📝 Recently published: **"Cloud Computing in UK Banking: Azure vs. AWS"**
 
 ---
 
 ## 🏆 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/CKAD-Certified_Kubernetes_App_Developer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-SysOps_Administrator_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-DevOps_(Docker_&_Kubernetes)-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intellipaat-DevOps_Professional-FF6B35?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
+
+**Certification Details:**
+- **CKA** - Certified Kubernetes Administrator (Nov 2025 - Nov 2027)
+- **CKAD** - Certified Kubernetes Application Developer (Sep 2025 - Sep 2027)
+- **AWS Solutions Architect Associate** (Jul 2019)
+- **AWS SysOps Administrator Associate** (Oct 2017)
+- **IBM DevOps (Docker and Kubernetes)** (Aug 2019)
+- **DevOps Professional - Intellipaat** (Jul 2019)
 
 ---
 
@@ -114,13 +129,23 @@ I'm always open to discussing DevOps best practices, cloud architecture, or pote
 
 ## 💼 Professional Experience
 
-**Sr. DevOps Engineer** @ Neetable Technologies *(January 2020 - Present)*
+**Sr. DevOps Engineer** @ GlobalLogic *(Current)*
 
-- Architecting and implementing scalable cloud infrastructure on AWS
-- Building and maintaining CI/CD pipelines using Jenkins and AWS services
-- Automating infrastructure provisioning with AWS CDK and CloudFormation
-- Managing containerized applications with Docker and Kubernetes
+- Architecting and implementing scalable cloud infrastructure on AWS and Azure
+- Building and maintaining CI/CD pipelines using Jenkins, GitHub Actions, and GitLab CI
+- Automating infrastructure provisioning with AWS CDK, CloudFormation, and Terraform
+- Managing containerized applications with Docker and Kubernetes (CKA/CKAD certified)
 - Implementing monitoring and alerting solutions for production environments
+- Leading DevOps transformation initiatives and cloud migration projects
+- Published technical articles on cloud computing solutions for enterprise banking
+
+---
+
+## 🎓 Education
+
+**Nirma University** - Ahmedabad, Gujarat, India
+*Bachelor's Degree* (2012 - 2015)
+GPA: 6.7
 
 ---
 
