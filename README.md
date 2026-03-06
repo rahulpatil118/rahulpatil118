@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Rahul Patil 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Sr.+DevOps+Engineer+%7C+8%2B+Years+Experience;CKA+%26+CKAD+Certified+Kubernetes+Expert;AWS+%26+Azure+Solutions+Architect;Cloud+Infrastructure+%26+Automation+Expert;CI%2FCD+Pipeline+Specialist" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Sr.+DevOps+Engineer+%7C+9%2B+Years+Experience;CKA+%26+CKAD+Certified+Kubernetes+Expert;AWS+%26+Azure+Solutions+Architect;Cloud+Infrastructure+%26+Automation+Expert;CI%2FCD+Pipeline+Specialist" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
