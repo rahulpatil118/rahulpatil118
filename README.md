@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior DevOps Engineer** at **GlobalLogic** with a passion for building scalable cloud infrastructure and automating everything! With **8+ years of hands-on experience**, I specialize in designing and implementing robust CI/CD pipelines, infrastructure as code, and cloud-native solutions.
+I'm a **Senior DevOps Engineer** at **GlobalLogic** with a passion for building scalable cloud infrastructure and automating everything! With **9+ years of hands-on experience**, I specialize in designing and implementing robust CI/CD pipelines, infrastructure as code, and cloud-native solutions.
 
 - 🔭 Currently working on **Kubernetes, AWS, and Azure Cloud Solutions**
 - 🌱 Diving deep into **CKA/CKAD certified** - Kubernetes expert
